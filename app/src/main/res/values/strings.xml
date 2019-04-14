@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="btnHello">Say Hello</string>
+    <string name="btnCount">Count</string>
+    <string name="txtView">Hello!\n%1$d</string>
+</resources>
